@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on Computing Society
-- 📫 Reach me on khalidbalochx44@gmail.com
+- 📫 Reach me on khalidbaranzai@gmail.com
 
 <!---
 khalidbaranzai/khalidbaranzai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
