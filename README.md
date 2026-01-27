@@ -36,8 +36,8 @@ Applying Deep Learning and Computational Logic through Python-based frameworks t
 ## 📊 Innovation Metrics
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" alt="Khalid's Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" alt="Top Languages" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=khalidbaranzai&show_icons=true&theme=dark" alt="Khalid's Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalidbaranzai&layout=compact&theme=dark" alt="Top Languages" height="150" />
 </p>
 
 ---
