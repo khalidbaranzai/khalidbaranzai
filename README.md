@@ -9,7 +9,9 @@ I am a **Full-Stack Developer** and **Django Specialist** pivoting into the inte
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Backend & Core** | Python (Django/FastAPI), Java |
+| **Backend & Core** | <p>
+  <img src="https://skillicons.dev/icons?i=dart,python,java,js,ts,cpp,c,html,css,php" />
+</p> |
 | **AI & Deep Learning** | TensorFlow, PyTorch, Neural Networks, NLP |
 | **Data & Automation** | PostgreSQL, MySQL, Data Scraping & Cleansing |
 | **Frontend** | React, HTML5, CSS3, JavaScript, Bootstrap 5 |
