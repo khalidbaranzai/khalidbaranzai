@@ -1,12 +1,11 @@
 <!-- ===================== HERO SECTION ===================== -->
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Khalid+Baranzai+%F0%9F%91%8B;Full-Stack+%26+AI+Engineer;Django+%7C+Deep+Learning+%7C+Intelligent+Systems;Architecting+Scalable+and+Smart+Platforms" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=36BCF7&style=flat" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat&color=0E75B6" />
+  <img src="https://komarev.com/ghpvc/?username=khalidbaranzai&label=Profile%20Views&color=36BCF7&style=flat" />
+  <img src="https://img.shields.io/github/followers/khalidbaranzai?label=Followers&style=flat&color=0E75B6" />
 </p>
 
 ---
